@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "CasaTaloyum" => "casatwy@msn.com" }
+  s.author             = { "wangmeng" => "37716571@qq.com" }
   # Or just: s.author    = "CasaTaloyum"
   # s.authors            = { "CasaTaloyum" => "casatwy@msn.com" }
   # s.social_media_url   = "http://twitter.com/CasaTaloyum"
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/xianrenzhuimeng/WMSpec.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/xianrenzhuimeng/B_Category.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
